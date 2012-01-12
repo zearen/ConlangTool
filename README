@@ -1,0 +1,3 @@
+This is a meta-parser for basic conlangs.  It still in development and
+things will clean up as the project progresses.  For example, a cabal 
+build file will be added as well as sample .clp files.  Also, the documentation will be fleshed out.
